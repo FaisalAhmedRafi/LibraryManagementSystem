@@ -1,0 +1,15 @@
+D:\Programming\AIUB\Dot Net\LibraryManagementSystem\DAL\bin\Debug\net8.0\DAL.deps.json
+D:\Programming\AIUB\Dot Net\LibraryManagementSystem\DAL\bin\Debug\net8.0\DAL.dll
+D:\Programming\AIUB\Dot Net\LibraryManagementSystem\DAL\bin\Debug\net8.0\DAL.pdb
+D:\Programming\AIUB\Dot Net\LibraryManagementSystem\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\AIUB\Dot Net\LibraryManagementSystem\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+D:\Programming\AIUB\Dot Net\LibraryManagementSystem\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+D:\Programming\AIUB\Dot Net\LibraryManagementSystem\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+D:\Programming\AIUB\Dot Net\LibraryManagementSystem\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+D:\Programming\AIUB\Dot Net\LibraryManagementSystem\DAL\obj\Debug\net8.0\DAL.dll
+D:\Programming\AIUB\Dot Net\LibraryManagementSystem\DAL\obj\Debug\net8.0\refint\DAL.dll
+D:\Programming\AIUB\Dot Net\LibraryManagementSystem\DAL\obj\Debug\net8.0\DAL.pdb
+D:\Programming\AIUB\Dot Net\LibraryManagementSystem\DAL\obj\Debug\net8.0\ref\DAL.dll
+D:\Programming\AIUB\Dot Net\LibraryManagementSystem\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+D:\Programming\AIUB\Dot Net\LibraryManagementSystem\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+D:\Programming\AIUB\Dot Net\LibraryManagementSystem\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
